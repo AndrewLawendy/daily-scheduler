@@ -1,0 +1,20 @@
+{
+  "name": "daily-scheduler",
+  "version": "1.0.0",
+  "description": "Client side daily scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewLawendy/daily-scheduler.git"
+  },
+  "author": "Andrew Lawendy",
+  "keywords": ["scheduler", "client scheduler", "browser scheduler"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewLawendy/daily-scheduler/issues"
+  },
+  "homepage": "https://github.com/AndrewLawendy/daily-scheduler#readme"
+}
