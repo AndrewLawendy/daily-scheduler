@@ -1,6 +1,6 @@
 {
   "name": "daily-scheduler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Client side daily scheduler",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,11 @@
     "url": "git+https://github.com/AndrewLawendy/daily-scheduler.git"
   },
   "author": "Andrew Lawendy",
-  "keywords": ["scheduler", "client scheduler", "browser scheduler"],
+  "keywords": [
+    "scheduler",
+    "client scheduler",
+    "browser scheduler"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AndrewLawendy/daily-scheduler/issues"
