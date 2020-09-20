@@ -4,6 +4,8 @@
 ![npm](https://img.shields.io/npm/dw/daily-scheduler)
 ![GitHub file size in bytes](https://img.shields.io/github/size/AndrewLawendy/daily-scheduler/src/index.js)
 
+[![NPM](https://nodei.co/npm/daily-scheduler.png?downloads=true)](https://nodei.co/npm/daily-scheduler/)
+
 This will help you to schedule any function to be executed daily at a specific time.
 Can be used on a browser or in an electron app depending on the browser's/operating system's time zone.
 
