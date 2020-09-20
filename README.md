@@ -1,6 +1,7 @@
 # daily-scheduler
 ![GitHub](https://img.shields.io/github/license/AndrewLawendy/daily-scheduler)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/AndrewLawendy/daily-scheduler)
+![npm](https://img.shields.io/npm/dw/daily-scheduler)
 ![GitHub file size in bytes](https://img.shields.io/github/size/AndrewLawendy/daily-scheduler/src/index.js)
 
 This will help you to schedule any function to be executed daily at a specific time.
