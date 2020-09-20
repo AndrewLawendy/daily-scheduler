@@ -1,6 +1,6 @@
 {
   "name": "daily-scheduler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Client side daily scheduler",
   "main": "src/index.js",
   "scripts": {
