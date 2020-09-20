@@ -14,7 +14,9 @@
   "keywords": [
     "scheduler",
     "client scheduler",
-    "browser scheduler"
+    "browser scheduler",
+    "electron scheduler",
+    "react scheduler"
   ],
   "license": "MIT",
   "bugs": {
